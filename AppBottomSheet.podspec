@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/karthikAdaptavant/AppBottomSheet.git'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'karthikAdaptavant' => 'karthik.samy@a-cti.com' }
-  s.source           = { :git => 'https://github.com/karthikAdaptavant/BottomSheet.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/karthikAdaptavant/AppBottomSheet.git', :tag => s.version.to_s }
   s.ios.deployment_target = '10.0'
   s.source_files = 'AppBottomSheet/Classes/**/*'
 end
