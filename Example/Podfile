@@ -2,10 +2,4 @@ use_frameworks!
 
 target 'AppBottomSheet_Example' do
   pod 'AppBottomSheet', :path => '../'
-
-  target 'AppBottomSheet_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end
